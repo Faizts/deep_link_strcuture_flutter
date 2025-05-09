@@ -1,0 +1,105 @@
+# Flutter/Dart/Pub related
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Web related
+**/build/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# macOS related
+*.xcworkspace
+*.xcuserstate
+DerivedData/
+
+# iOS related
+Pods/
+
+# Android related
+local.properties
+
+# Linux related
+**/cmake-build-debug/
+
+# Windows related
+**/Debug/
+**/Release/
+**/CMakeFiles/
+CMakeCache.txt
+CMakeLists.txt.user
+
+# Generated files
+*.log
+*.lock
+*.pyc
+*.pyo
+*.class
+*.swp
+*.swo
+*.DS_Store
+*.dart.js
+*.js.deps
+*.js.map
+*.info.json
+*.dill
+*.tmp
+*.temp
+*.log
+*.diff
+*.patch
+*.orig
+*.rej
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+*.apk
+*.ipa
+*.aab
+*.snap
+*.lockfile
+*.hprof
+*.orig
+*.rej
+*.swp
+*.swo
+*.DS_Store
+*.dart.js
+*.js.deps
+*.js.map
+*.info.json
+*.dill
+*.tmp
+*.temp
+*.log
+*.diff
+*.patch
+*.orig
+*.rej
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+*.apk
+*.ipa
+*.aab
+*.snap
+*.lockfile
+*.hprof
